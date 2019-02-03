@@ -1,5 +1,5 @@
 #!/bin/bash
-Hassan Alsahli
+#Hassan Alsahli
 echo "Enter a regular expression: "
 read REGEX
 echo "Enter a filename: "
